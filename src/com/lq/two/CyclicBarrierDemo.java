@@ -1,4 +1,4 @@
-package com.lq;
+package com.lq.two;
 
 import java.util.concurrent.CyclicBarrier;
 
